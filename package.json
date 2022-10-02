@@ -1,6 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
+  "engines": { "node": "16.x" },
   "main": "app.js",
   "dependencies": {
     "abbrev": "^1.1.1",
